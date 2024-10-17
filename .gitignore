@@ -1,0 +1,17 @@
+venv
+.idea
+.vscode
+!.gitignore
+__pycache__
+.app_env_setting
+migrations
+static
+logs/
+media
+download
+celerybeat-schedule
+celerybeat-schedule.*
+temp
+tests.py
+gunicorn_conf.py
+tools
